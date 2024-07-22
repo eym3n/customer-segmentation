@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-This project demonstrates customer segmentation using the K-Means clustering algorithm. The dataset used is `input/Mall_Customers.csv`, which contains information about customers' annual income and spending scores.
+This project demonstrates customer segmentation using the K-Means clustering algorithm. The dataset used is `Mall_Customers.csv`, which contains information about customers' annual income and spending scores.
 
 ## Table of Contents
 
